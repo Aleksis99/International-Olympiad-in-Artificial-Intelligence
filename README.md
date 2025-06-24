@@ -9,9 +9,10 @@
    2. 01_Linear&Logistic_Regression: started :white_check_mark: completed
    3. 02_Neural_Networks_Backpropagation: 
    4. 03_Pytorch_Intro
-      1. 00_python_into started: :white_check_mark: completed :white_check_mark:
-      2. 01_Linear&Logistic_Regression: started :white_check_mark: completed
-      3. 02_Neural_Networks_Backpropagation:
+      1. 3.0_python_into started: :white_check_mark: completed :white_check_mark:
+      2. 3.2 Regression: started :white_check_mark: completed
+      3. 3.3_Classification: started: :white_check_mark: completed :white_check_mark:
+      4. 3.4 Image Classification: 
    5. 04_Intro_to_nlp
-      1. 1_Markov_Language_Model: started :white_check_mark: completed :white_check_mark:
-      2. 2_Word2Vec_example: started :white_check_mark: completed :white_check_mark:
+      1. 4.1_Markov_Language_Model: started :white_check_mark: completed :white_check_mark:
+      2. 4.2_Word2Vec_example: started :white_check_mark: completed :white_check_mark:
