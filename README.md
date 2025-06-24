@@ -9,7 +9,7 @@
    2. 01_Linear&Logistic_Regression: started :white_check_mark: completed
    3. 02_Neural_Networks_Backpropagation: 
    4. 03_Pytorch_Intro
-      1. 00_python_into started :white_check_mark: completed :white_check_mark:
+      1. 00_python_into started: :white_check_mark: completed :white_check_mark:
       2. 01_Linear&Logistic_Regression: started :white_check_mark: completed
       3. 02_Neural_Networks_Backpropagation:
    5. 04_Intro_to_nlp
