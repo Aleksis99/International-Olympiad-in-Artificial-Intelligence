@@ -20,6 +20,6 @@
       3. 4.3_GPT: started :white_check_mark: completed :white_check_mark:
    6. 05_Intro_to_CV
       1. 5.1 Image Classification CNN: started :white_check_mark: completed :white_check_mark:
-        5.2 Data Augmentation: started :white_check_mark: completed :white_check_mark:
-        5.3 Transfer learning: started :white_check_mark: completed :white_check_mark:
-        5.4 CLIP: started :white_check_mark: completed :white_check_mark:
+      2. 5.2 Data Augmentation: started :white_check_mark: completed :white_check_mark:
+      3. 5.3 Transfer learning: started :white_check_mark: completed :white_check_mark:
+      4. 5.4 CLIP: started :white_check_mark: completed :white_check_mark:
